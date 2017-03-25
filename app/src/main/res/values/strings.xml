@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PVR</string>
+    <string name="dialog_header_title">Select all to be included</string>
 </resources>
